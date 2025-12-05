@@ -1,0 +1,7 @@
+{
+  "name": "Hand-to-Heart: Gorogoa Echoes",
+  "description": "An interactive art piece teaching Chinese Sign Language. It recognizes hand gestures to weave an emotional narrative and generates surreal 'Gorogoa-style' visuals based on your movements.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
